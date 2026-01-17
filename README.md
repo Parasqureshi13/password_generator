@@ -93,7 +93,7 @@ Frontend Web Developer
 
 ## 📸 Preview
 
-(Add screenshots or live demo link here)
+https://parasqureshi13.github.io/password_generator/
 
 ---
 
