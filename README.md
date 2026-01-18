@@ -82,15 +82,6 @@ Frontend Web Developer
 
 ---
 
-## 🌟 Future Improvements (Optional)
-
-* Password length customization
-* Toggle options (symbols, numbers, uppercase)
-* Dark / Light mode
-* Password history
-
----
-
 ## 📸 Preview
 
 https://parasqureshi13.github.io/password_generator/
